@@ -39,4 +39,4 @@ int main() {
     vector<int> nums = {2, 6, 4, 8};
     cout << sol.gcdSum(nums) << endl;
     return 0;
-}
+};
